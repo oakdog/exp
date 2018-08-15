@@ -1,2 +1,2 @@
 # exp
-fiddling with react, graphene, sanic, et al.
+Biting off containers, asynchronicity, & microservice architecture all at once might not have been the move.
